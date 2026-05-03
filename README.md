@@ -1,16 +1,13 @@
-## Hi there 👋
+```
+Architect, researcher, and builder.
 
-<!--
-**dutchdata/dutchdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Rust is my daily driver. I use React/TypeScript when I need a UI, which is often.
+I have significant prior experience with Go; modest history with Python and Ruby.
+Increasingly diving into glibc.
 
-Here are some ideas to get you started:
+I work on systems, web, AI. Also infra, networking, and scientific computing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I ship entire apps solo. Some of them run on my home server, which is just a Pi running headless Ubuntu.
+
+My recent work centers around security and aerospace technology, which is why you won't find it in this repo (or anywhere public). Most notably, I've integrated both CSPICE and ANISE with AI function-calling; i.e. natural language queries in a custom chat interface return real JIT-calc'd ephemeris/orbital data for the body (or bodies) requested.
+```
